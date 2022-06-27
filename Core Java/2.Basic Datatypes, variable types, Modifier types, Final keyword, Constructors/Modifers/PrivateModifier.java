@@ -1,4 +1,5 @@
 //Private : only accessible inside its class
+//Public : can be accessed everywhere
 
 class P
 {

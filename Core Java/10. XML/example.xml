@@ -1,0 +1,11 @@
+<students>
+  <student>
+    <name>swara</name> <age>23</age> <city>Agra</city>
+  </student>
+  <student>
+    <name>amit</name> <age>28</age> <city>Delhi</city>
+  </student>
+  <student>
+    <name>shetty</name> <age>32</age> <city>Chennai</city>
+  </student>
+</students>
