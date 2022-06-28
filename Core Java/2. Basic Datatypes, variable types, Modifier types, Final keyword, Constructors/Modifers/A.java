@@ -7,3 +7,5 @@ public class A
         System.out.println("heyyy");
     }
 }
+
+//protected modifier is used here.

@@ -17,11 +17,11 @@ public class FirstServlet extends HttpServlet {
 		super();
 	}
 
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 
-		response.setContentType("text/html");
+		res.setContentType("text/html");
 		
-		PrintWriter out = response.getWriter();
+		PrintWriter out = res.getWriter();
 		
 		out.print("<html><body>");
 		out.print("<h2>Hello</h2>");
